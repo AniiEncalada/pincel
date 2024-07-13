@@ -11,6 +11,7 @@
    sodipodi:docname="git-info.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
@@ -24,18 +25,67 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="6.9778812"
-     inkscape:cx="370.24133"
-     inkscape:cy="939.82683"
+     inkscape:zoom="0.5316396"
+     inkscape:cx="2813.9364"
+     inkscape:cy="1497.2549"
      inkscape:window-width="1919"
      inkscape:window-height="1021"
      inkscape:window-x="1"
      inkscape:window-y="28"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1"
-     showguides="false" />
+     inkscape:current-layer="g21471"
+     showguides="false">
+    <inkscape:page
+       x="0"
+       y="0"
+       width="285.75"
+       height="285.75"
+       id="page466" />
+    <inkscape:page
+       x="295.75"
+       y="0"
+       width="285.75"
+       height="285.75"
+       id="page468" />
+    <inkscape:page
+       x="591.5"
+       y="0"
+       width="285.75"
+       height="285.75"
+       id="page5665" />
+    <inkscape:page
+       x="0"
+       y="301.02835"
+       width="285.75"
+       height="285.75"
+       id="page9850" />
+    <inkscape:page
+       x="295.75"
+       y="301.02835"
+       width="285.75"
+       height="285.74997"
+       id="page13010" />
+    <inkscape:page
+       x="591.5"
+       y="301.02835"
+       width="285.75"
+       height="285.74997"
+       id="page18179" />
+  </sodipodi:namedview>
   <defs
      id="defs52322">
+    <rect
+       x="2472.3213"
+       y="1551.6833"
+       width="501.07045"
+       height="63.381462"
+       id="rect20761" />
+    <rect
+       x="2372.6541"
+       y="-519.0478"
+       width="778.64146"
+       height="247.9389"
+       id="rect7625" />
     <filter
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
@@ -223,10 +273,10 @@
        style="color-interpolation-filters:sRGB;"
        inkscape:label="Drop Shadow"
        id="filter13276-9"
-       x="-0.011717292"
-       y="-0.0064234327"
-       width="1.0117173"
-       height="1.0920692">
+       x="-0.012138068"
+       y="-0.0066418704"
+       width="1.0121381"
+       height="1.0952001">
       <feFlood
          flood-opacity="0.270588"
          flood-color="rgb(0,0,0)"
@@ -288,6 +338,625 @@
          operator="over"
          result="composite2" />
     </filter>
+    <rect
+       x="1243.1567"
+       y="-1068.082"
+       width="722.24591"
+       height="214.72635"
+       id="rect1820" />
+    <rect
+       x="1210.683"
+       y="-771.19781"
+       width="761.64374"
+       height="203.17706"
+       id="rect32965-5" />
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter37595-3"
+       x="-0.0020387958"
+       y="-0.010171462"
+       width="1.0020388"
+       height="1.0101715">
+      <feFlood
+         flood-opacity="0.188235"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood37585-5" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite37587-6" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="1.38778e-16"
+         result="blur"
+         id="feGaussianBlur37589-2" />
+      <feOffset
+         dx="-1.4"
+         dy="-1.4"
+         result="offset"
+         id="feOffset37591-9" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite37593-1" />
+    </filter>
+    <rect
+       x="1210.683"
+       y="-771.19781"
+       width="761.64374"
+       height="203.17706"
+       id="rect32965-5-3" />
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter37595-3-2"
+       x="-0.0034870875"
+       y="-0.015638311"
+       width="1.0034871"
+       height="1.0156383">
+      <feFlood
+         flood-opacity="0.188235"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood37585-5-0" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite37587-6-6" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="1.38778e-16"
+         result="blur"
+         id="feGaussianBlur37589-2-1" />
+      <feOffset
+         dx="-1.4"
+         dy="-1.4"
+         result="offset"
+         id="feOffset37591-9-5" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite37593-1-5" />
+    </filter>
+    <rect
+       x="1210.683"
+       y="-771.19781"
+       width="761.64374"
+       height="203.17706"
+       id="rect32965-5-5" />
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter37595-3-6"
+       x="-0.0034870875"
+       y="-0.015638311"
+       width="1.0034871"
+       height="1.0156383">
+      <feFlood
+         flood-opacity="0.188235"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood37585-5-9" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite37587-6-3" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="1.38778e-16"
+         result="blur"
+         id="feGaussianBlur37589-2-7" />
+      <feOffset
+         dx="-1.4"
+         dy="-1.4"
+         result="offset"
+         id="feOffset37591-9-4" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite37593-1-52" />
+    </filter>
+    <rect
+       x="1210.683"
+       y="-771.19781"
+       width="761.64374"
+       height="203.17706"
+       id="rect32965-5-3-4" />
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter37595-3-2-4"
+       x="-0.0021702737"
+       y="-0.015603452"
+       width="1.0021703"
+       height="1.0156035">
+      <feFlood
+         flood-opacity="0.188235"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood37585-5-0-3" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite37587-6-6-0" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="1.38778e-16"
+         result="blur"
+         id="feGaussianBlur37589-2-1-7" />
+      <feOffset
+         dx="-1.4"
+         dy="-1.4"
+         result="offset"
+         id="feOffset37591-9-5-8" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite37593-1-5-6" />
+    </filter>
+    <rect
+       x="1210.683"
+       y="-771.19781"
+       width="761.64374"
+       height="203.17706"
+       id="rect32965-5-31" />
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter37595-3-4"
+       x="-0.0034870875"
+       y="-0.015638311"
+       width="1.0034871"
+       height="1.0156383">
+      <feFlood
+         flood-opacity="0.188235"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood37585-5-92" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite37587-6-0" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="1.38778e-16"
+         result="blur"
+         id="feGaussianBlur37589-2-6" />
+      <feOffset
+         dx="-1.4"
+         dy="-1.4"
+         result="offset"
+         id="feOffset37591-9-8" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite37593-1-9" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter5531-9"
+       x="-0.014534109"
+       y="-2.3582437"
+       width="1.0289373"
+       height="5.6830733">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.27109022"
+         id="feGaussianBlur5533-5" />
+    </filter>
+    <rect
+       x="1243.1567"
+       y="-1068.082"
+       width="722.24591"
+       height="214.72635"
+       id="rect1820-7" />
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter13276-1"
+       x="-0.0098188073"
+       y="0"
+       width="1.0098188"
+       height="1.0264029">
+      <feFlood
+         flood-opacity="0.270588"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood13266-7" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite13268-2" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="1.38778e-16"
+         result="blur"
+         id="feGaussianBlur13270-7" />
+      <feOffset
+         dx="-5"
+         dy="4"
+         result="offset"
+         id="feOffset13272-2" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite13274-2" />
+    </filter>
+    <rect
+       x="1210.683"
+       y="-771.19781"
+       width="770.54374"
+       height="406.66646"
+       id="rect32965-6" />
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter37595-1"
+       x="-0.0018475509"
+       y="-0.0041439735"
+       width="1.0018476"
+       height="1.004144">
+      <feFlood
+         flood-opacity="0.188235"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood37585-59" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite37587-4" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="1.38778e-16"
+         result="blur"
+         id="feGaussianBlur37589-9" />
+      <feOffset
+         dx="-1.4"
+         dy="-1.4"
+         result="offset"
+         id="feOffset37591-0" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite37593-9" />
+    </filter>
+    <rect
+       x="1243.1567"
+       y="-1068.082"
+       width="722.24591"
+       height="214.72635"
+       id="rect9929" />
+    <rect
+       x="1210.683"
+       y="-771.19781"
+       width="761.64374"
+       height="203.17706"
+       id="rect10694" />
+    <rect
+       x="1210.683"
+       y="-771.19781"
+       width="761.64374"
+       height="203.17706"
+       id="rect10714" />
+    <rect
+       x="1210.683"
+       y="-771.19781"
+       width="761.64374"
+       height="203.17706"
+       id="rect10694-9" />
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter37595-3-48"
+       x="-0.0024245899"
+       y="-0.010147006"
+       width="1.0024246"
+       height="1.010147">
+      <feFlood
+         flood-opacity="0.188235"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood37585-5-1" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite37587-6-2" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="1.38778e-16"
+         result="blur"
+         id="feGaussianBlur37589-2-9" />
+      <feOffset
+         dx="-1.4"
+         dy="-1.4"
+         result="offset"
+         id="feOffset37591-9-3" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite37593-1-90" />
+    </filter>
+    <rect
+       x="1210.683"
+       y="-771.19781"
+       width="761.64374"
+       height="203.17706"
+       id="rect10714-1" />
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter37595-3-2-1"
+       x="-0.0018612271"
+       y="-0.0073939168"
+       width="1.0018612"
+       height="1.0073939">
+      <feFlood
+         flood-opacity="0.188235"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood37585-5-0-5" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite37587-6-6-9" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="1.38778e-16"
+         result="blur"
+         id="feGaussianBlur37589-2-1-8" />
+      <feOffset
+         dx="-1.4"
+         dy="-1.4"
+         result="offset"
+         id="feOffset37591-9-5-4" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite37593-1-5-8" />
+    </filter>
+    <rect
+       x="1243.1567"
+       y="-1068.082"
+       width="722.24591"
+       height="214.72635"
+       id="rect9929-1" />
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter13276-0"
+       x="-0.011183082"
+       y="0"
+       width="1.0111831"
+       height="1.0245066">
+      <feFlood
+         flood-opacity="0.270588"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood13266-3" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite13268-0" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="1.38778e-16"
+         result="blur"
+         id="feGaussianBlur13270-4" />
+      <feOffset
+         dx="-5"
+         dy="4"
+         result="offset"
+         id="feOffset13272-44" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite13274-4" />
+    </filter>
+    <rect
+       x="1210.683"
+       y="-771.19781"
+       width="761.64374"
+       height="203.17706"
+       id="rect10694-7" />
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter37595-3-63"
+       x="-0.0024245899"
+       y="-0.010147006"
+       width="1.0024246"
+       height="1.010147">
+      <feFlood
+         flood-opacity="0.188235"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood37585-5-17" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite37587-6-5" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="1.38778e-16"
+         result="blur"
+         id="feGaussianBlur37589-2-96" />
+      <feOffset
+         dx="-1.4"
+         dy="-1.4"
+         result="offset"
+         id="feOffset37591-9-2" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite37593-1-1" />
+    </filter>
+    <rect
+       x="1210.683"
+       y="-771.19781"
+       width="761.64374"
+       height="203.17706"
+       id="rect10694-9-7" />
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter37595-3-48-8"
+       x="-0.0020684617"
+       y="-0.0076955325"
+       width="1.0020685"
+       height="1.0076955">
+      <feFlood
+         flood-opacity="0.188235"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood37585-5-1-5" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite37587-6-2-7" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="1.38778e-16"
+         result="blur"
+         id="feGaussianBlur37589-2-9-4" />
+      <feOffset
+         dx="-1.4"
+         dy="-1.4"
+         result="offset"
+         id="feOffset37591-9-3-1" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite37593-1-90-8" />
+    </filter>
+    <rect
+       x="1210.683"
+       y="-771.19781"
+       width="761.64374"
+       height="203.17706"
+       id="rect10714-1-6" />
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter37595-3-2-1-0"
+       x="-0.0018455245"
+       y="-0.0074479284"
+       width="1.0018455"
+       height="1.0074479">
+      <feFlood
+         flood-opacity="0.188235"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood37585-5-0-5-4" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite37587-6-6-9-8" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="1.38778e-16"
+         result="blur"
+         id="feGaussianBlur37589-2-1-8-8" />
+      <feOffset
+         dx="-1.4"
+         dy="-1.4"
+         result="offset"
+         id="feOffset37591-9-5-4-8" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite37593-1-5-8-9" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#SVGID_1_"
+       id="linearGradient18248"
+       gradientUnits="userSpaceOnUse"
+       x1="9.6692657"
+       y1="9.6760864"
+       x2="18.306595"
+       y2="18.313416" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#SVGID_2_"
+       id="linearGradient18250"
+       gradientUnits="userSpaceOnUse"
+       x1="2.0138185"
+       y1="7.3399205"
+       x2="21.983366"
+       y2="16.651873" />
+    <rect
+       x="1243.1567"
+       y="-1068.082"
+       width="722.24591"
+       height="214.72635"
+       id="rect18901" />
+    <rect
+       x="2472.3213"
+       y="1551.6833"
+       width="501.07047"
+       height="63.381462"
+       id="rect20761-2" />
+    <rect
+       x="2372.6541"
+       y="-519.0478"
+       width="778.64146"
+       height="247.9389"
+       id="rect21473" />
   </defs>
   <g
      inkscape:label="Capa 1"
@@ -328,10 +997,10 @@
        style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:74.6667px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat Semi-Bold';white-space:pre;shape-inside:url(#rect9897);display:inline;filter:url(#filter13276)"><tspan
          x="1243.1562"
          y="-999.45635"
-         id="tspan60361">Administración de </tspan><tspan
+         id="tspan21880">Administración de </tspan><tspan
          x="1243.1562"
          y="-906.12298"
-         id="tspan60363">proyectos con GIT</tspan></text>
+         id="tspan21882">proyectos con GIT</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-303.65774,483.75382)"
@@ -339,9 +1008,9 @@
        style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:48px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat Semi-Bold';white-space:pre;shape-inside:url(#rect9897-1);display:inline;filter:url(#filter13276-9)"><tspan
          x="1243.1562"
          y="-1023.9655"
-         id="tspan60367"><tspan
+         id="tspan21886"><tspan
            style="font-weight:normal"
-           id="tspan60365">Viajes en el tiempo</tspan></tspan></text>
+           id="tspan21884">Viajes en el tiempo</tspan></tspan></text>
     <g
        id="g19556"
        transform="translate(-435.10333,535.65673)">
@@ -499,19 +1168,19 @@
        style="font-size:40px;line-height:1.25;font-family:'Montserrat SemiBold';-inkscape-font-specification:'Montserrat SemiBold, ';white-space:pre;shape-inside:url(#rect32965);display:inline;filter:url(#filter37595)"><tspan
          x="1210.6836"
          y="-734.43352"
-         id="tspan60371"><tspan
+         id="tspan21890"><tspan
            style="font-family:Montserrat;-inkscape-font-specification:Montserrat"
-           id="tspan60369">Git es un sistema de control de </tspan></tspan><tspan
+           id="tspan21888">Git es un sistema de control de </tspan></tspan><tspan
          x="1210.6836"
          y="-684.43352"
-         id="tspan60375"><tspan
+         id="tspan21894"><tspan
            style="font-family:Montserrat;-inkscape-font-specification:Montserrat"
-           id="tspan60373">versiones distribuido, gratuito y de </tspan></tspan><tspan
+           id="tspan21892">versiones distribuido, gratuito y de </tspan></tspan><tspan
          x="1210.6836"
          y="-634.43352"
-         id="tspan60379"><tspan
+         id="tspan21898"><tspan
            style="font-family:Montserrat;-inkscape-font-specification:Montserrat"
-           id="tspan60377">código abierto</tspan></tspan></text>
+           id="tspan21896">código abierto</tspan></tspan></text>
     <rect
        style="fill:#ee7a7a;stroke-width:1.61159;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:1.61159, 6.44632;paint-order:stroke markers fill;stop-color:#000000"
        id="rect60024"
@@ -523,5 +1192,1182 @@
        transform="matrix(0.70710678,-0.70710678,-0.70710678,-0.70710678,0,0)"
        inkscape:transform-center-x="4.4879155"
        inkscape:transform-center-y="-1.2349515" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Hoja2">
+    <rect
+       style="fill:#fafafa;fill-opacity:1;stroke:none;stroke-width:0.299686;stroke-linecap:square;stroke-linejoin:round;paint-order:stroke markers fill;stop-color:#000000"
+       id="rect525"
+       width="285.45032"
+       height="285.45032"
+       x="296.04968"
+       y="0"
+       ry="0.13540126" />
+    <rect
+       style="fill:#5cf1f1;fill-opacity:1;stroke:none;stroke-width:1.065;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:1.065, 4.26;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill;stop-color:#000000"
+       id="rect1085"
+       width="25.416925"
+       height="84.557304"
+       x="319.16147"
+       y="-0.53081703"
+       ry="0.13554342" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-9.7569518,306.18733)"
+       id="text1818"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:74.6667px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect1820);display:inline;filter:url(#filter13276)"><tspan
+         x="1243.1562"
+         y="-999.45635"
+         id="tspan21900">Kit de </tspan><tspan
+         x="1243.1562"
+         y="-906.12298"
+         id="tspan21902">herramientas </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.5833px;line-height:1.25;font-family:'Montserrat SemiBold';-inkscape-font-specification:'Montserrat SemiBold, ';stroke-width:0.264583"
+       x="471.79288"
+       y="191.73793"
+       id="text2655"><tspan
+         sodipodi:role="line"
+         id="tspan2653"
+         style="stroke-width:0.264583"
+         x="471.79288"
+         y="191.73793" /></text>
+    <g
+       id="g2661"
+       transform="translate(49.252351,288.44858)">
+      <path
+         style="opacity:0.586285;fill:none;stroke:#1e1e24;stroke-width:1.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1.065, 4.26;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter5531)"
+         d="m 460.07755,-268.50631 45.17168,0.50168"
+         id="path2657" />
+      <path
+         style="fill:none;stroke:#1e1e24;stroke-width:1.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1.065, 4.26;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 460.07755,-269.03548 45.17168,0.50168"
+         id="path2659" />
+    </g>
+    <g
+       id="g10308">
+      <g
+         id="g2926">
+        <rect
+           style="fill:#ee7a7a;fill-opacity:1;stroke:none;stroke-width:0.529597;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:0.529597, 2.11839;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill;stop-color:#000000"
+           id="rect528"
+           width="20.66876"
+           height="19.332409"
+           x="321.53555"
+           y="104.76868"
+           ry="0.067402266" />
+        <text
+           xml:space="preserve"
+           transform="matrix(0.26458333,0,0,0.26458333,32.050236,305.15666)"
+           id="text32963-2"
+           style="font-size:40px;line-height:1.25;font-family:'Montserrat SemiBold';-inkscape-font-specification:'Montserrat SemiBold, ';white-space:pre;shape-inside:url(#rect32965-5);display:inline;filter:url(#filter37595-3)"><tspan
+             x="1210.6836"
+             y="-734.43352"
+             id="tspan21906"><tspan
+               style="font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono'"
+               id="tspan21904">&gt; git init
+</tspan></tspan><tspan
+             x="1210.6836"
+             y="-683.06042"
+             id="tspan21910"><tspan
+               style="font-family:Montserrat;-inkscape-font-specification:Montserrat"
+               id="tspan21908">Empieza la aventura</tspan></tspan></text>
+      </g>
+    </g>
+    <g
+       id="g2926-2"
+       transform="translate(0,122.16783)">
+      <rect
+         style="fill:#ee7a7a;fill-opacity:1;stroke:none;stroke-width:0.529597;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:0.529597, 2.11839;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill;stop-color:#000000"
+         id="rect528-6"
+         width="20.66876"
+         height="19.332409"
+         x="321.53555"
+         y="104.76868"
+         ry="0.067402266" />
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,32.050236,305.15666)"
+         id="text32963-2-64"
+         style="font-size:40px;line-height:1.25;font-family:'Montserrat SemiBold';-inkscape-font-specification:'Montserrat SemiBold, ';white-space:pre;shape-inside:url(#rect32965-5-31);display:inline;filter:url(#filter37595-3-4)"><tspan
+           x="1210.6836"
+           y="-734.43352"
+           id="tspan21914"><tspan
+             style="font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono'"
+             id="tspan21912">&gt; git pull
+</tspan></tspan><tspan
+           x="1210.6836"
+           y="-683.06042"
+           id="tspan21918"><tspan
+             style="font-family:Montserrat;-inkscape-font-specification:Montserrat"
+             id="tspan21916">Traer a local la versión en remoto</tspan></tspan></text>
+    </g>
+    <g
+       id="g2926-5"
+       transform="translate(0,65.855552)">
+      <rect
+         style="fill:#5cf1f1;fill-opacity:1;stroke:none;stroke-width:0.529597;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:0.529597, 2.11839;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill;stop-color:#000000"
+         id="rect528-4"
+         width="20.66876"
+         height="19.332409"
+         x="321.53555"
+         y="104.76868"
+         ry="0.067402266" />
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,32.050236,305.11052)"
+         id="text32963-2-7"
+         style="font-size:40px;line-height:1.25;font-family:'Montserrat SemiBold';-inkscape-font-specification:'Montserrat SemiBold, ';white-space:pre;shape-inside:url(#rect32965-5-5);display:inline;filter:url(#filter37595-3-6)"><tspan
+           x="1210.6836"
+           y="-734.43352"
+           id="tspan21922"><tspan
+             style="font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono'"
+             id="tspan21920">&gt; git commit -m &quot;text&quot;
+</tspan></tspan><tspan
+           x="1210.6836"
+           y="-683.06042"
+           id="tspan21926"><tspan
+             style="font-family:Montserrat;-inkscape-font-specification:Montserrat"
+             id="tspan21924">Mensaje para incremento</tspan></tspan></text>
+    </g>
+    <g
+       id="g3400"
+       transform="translate(0.87082914)">
+      <rect
+         style="fill:#5cf1f1;fill-opacity:1;stroke:none;stroke-width:0.529597;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:0.529597, 2.11839;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill;stop-color:#000000"
+         id="rect528-7"
+         width="20.66876"
+         height="19.332409"
+         x="533.61261"
+         y="137.60475"
+         ry="0.067402266" />
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,2.903498,337.94659)"
+         id="text32963-2-6"
+         style="font-size:40px;line-height:1.25;font-family:'Montserrat SemiBold';-inkscape-font-specification:'Montserrat SemiBold, ';text-align:end;white-space:pre;shape-inside:url(#rect32965-5-3);display:inline;filter:url(#filter37595-3-2)"
+         x="645.0799"
+         y="0"><tspan
+           x="1707.4238"
+           y="-734.43352"
+           id="tspan21930"><tspan
+             style="font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono'"
+             id="tspan21928">&gt; git add .
+</tspan></tspan><tspan
+           x="1325.3262"
+           y="-683.06042"
+           id="tspan21934"><tspan
+             style="font-family:Montserrat;-inkscape-font-specification:Montserrat"
+             id="tspan21932">Agrega todo al paq seguimiento</tspan></tspan></text>
+    </g>
+    <g
+       id="g3629"
+       transform="translate(15.705424,-13.454257)">
+      <rect
+         style="fill:#5cf1f1;fill-opacity:1;stroke:none;stroke-width:0.529597;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:0.529597, 2.11839;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill;stop-color:#000000"
+         id="rect528-7-8"
+         width="20.66876"
+         height="19.332409"
+         x="518.77802"
+         y="213.28905"
+         ry="0.067402266" />
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,-12.191459,414.64104)"
+         id="text32963-2-6-4"
+         style="font-size:40px;line-height:1.25;font-family:'Montserrat SemiBold';-inkscape-font-specification:'Montserrat SemiBold, ';text-align:end;white-space:pre;shape-inside:url(#rect32965-5-3-4);display:inline;filter:url(#filter37595-3-2-4)"
+         x="407.52115"
+         y="0"><tspan
+           x="1731.5059"
+           y="-734.43352"
+           id="tspan21938"><tspan
+             style="font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono'"
+             id="tspan21936">&gt; git push
+</tspan></tspan><tspan
+           x="1561.2462"
+           y="-683.06042"
+           id="tspan21942"><tspan
+             style="font-family:Montserrat;-inkscape-font-specification:Montserrat"
+             id="tspan21940">Publicar incremento</tspan></tspan></text>
+    </g>
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.065;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:1.065, 4.26;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill;filter:url(#filter22925);stop-color:#000000"
+       id="rect3387"
+       width="83.950119"
+       height="1.938797"
+       x="471.20209"
+       y="82.087692"
+       ry="0.13554342" />
+    <g
+       id="g19556-0"
+       transform="translate(-137.88547,537.08227)">
+      <path
+         style="opacity:0.586285;fill:none;stroke:#1e1e24;stroke-width:1.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1.065, 4.26;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter5531-9)"
+         d="m 460.07755,-268.50631 45.17168,0.50168"
+         id="path19552-4" />
+      <path
+         style="fill:none;stroke:#1e1e24;stroke-width:1.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1.065, 4.26;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 460.07755,-269.03548 45.17168,0.50168"
+         id="path19554-8" />
+    </g>
+    <g
+       id="g10712"
+       transform="translate(-294.96358,308.68771)">
+      <rect
+         style="fill:#5cf1f1;fill-opacity:1;stroke:none;stroke-width:0.529597;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:0.529597, 2.11839;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill;stop-color:#000000"
+         id="rect10702"
+         width="20.66876"
+         height="19.332409"
+         x="533.61261"
+         y="137.60475"
+         ry="0.067402266" />
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,2.903498,337.94659)"
+         id="text10710"
+         style="font-size:40px;line-height:1.25;font-family:'Montserrat SemiBold';-inkscape-font-specification:'Montserrat SemiBold, ';text-align:end;white-space:pre;shape-inside:url(#rect10714);display:inline;filter:url(#filter37595-3-2)"
+         x="645.0799"
+         y="0"><tspan
+           x="1298.0293"
+           y="-734.43352"
+           id="tspan21946"><tspan
+             style="font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono'"
+             id="tspan21944">&gt; git -b first-change-branch </tspan></tspan><tspan
+           x="1827.834"
+           y="-683.06042"
+           id="tspan21950"><tspan
+             style="font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono'"
+             id="tspan21948">&lt;&lt;id&gt;&gt;
+</tspan></tspan><tspan
+           x="1379.1104"
+           y="-631.68731"
+           id="tspan21954"><tspan
+             style="font-size:32px;font-family:Montserrat;-inkscape-font-specification:Montserrat"
+             id="tspan21952">Crea una nueva rama y cambia a ella, </tspan></tspan><tspan
+           x="1216.9662"
+           y="-581.68731"
+           id="tspan21958"><tspan
+             style="font-size:32px;font-family:Montserrat;-inkscape-font-specification:Montserrat"
+             id="tspan21956">basándose al contenido identificado por &lt;&lt;id&gt;&gt;</tspan></tspan></text>
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Hoja3">
+    <rect
+       style="fill:#fafafa;fill-opacity:1;stroke:none;stroke-width:0.299686;stroke-linecap:square;stroke-linejoin:round;paint-order:stroke markers fill;stop-color:#000000"
+       id="rect5668"
+       width="285.45032"
+       height="285.45032"
+       x="591.79968"
+       y="0"
+       ry="0.13540126"
+       sodipodi:insensitive="true" />
+    <rect
+       style="fill:#5cf1f1;fill-opacity:1;stroke:none;stroke-width:1.065;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:1.065, 4.26;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill;stop-color:#000000"
+       id="rect5671"
+       width="25.416925"
+       height="84.557304"
+       x="615.05627"
+       y="-0.53081703"
+       ry="0.13554342"
+       sodipodi:insensitive="true" />
+    <g
+       id="g5677"
+       transform="translate(345.1471,288.44857)"
+       sodipodi:insensitive="true">
+      <path
+         style="opacity:0.586285;fill:none;stroke:#1e1e24;stroke-width:1.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1.065, 4.26;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter5531)"
+         d="m 460.07755,-268.50631 45.17168,0.50168"
+         id="path5673" />
+      <path
+         style="fill:none;stroke:#1e1e24;stroke-width:1.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1.065, 4.26;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 460.07755,-269.03548 45.17168,0.50168"
+         id="path5675" />
+    </g>
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.065;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:1.065, 4.26;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill;filter:url(#filter22925);stop-color:#000000"
+       id="rect5679"
+       width="83.950119"
+       height="1.938797"
+       x="767.09686"
+       y="82.087685"
+       ry="0.13554342"
+       sodipodi:insensitive="true" />
+    <g
+       id="g5685"
+       transform="translate(158.00928,537.08226)"
+       sodipodi:insensitive="true">
+      <path
+         style="opacity:0.586285;fill:none;stroke:#1e1e24;stroke-width:1.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1.065, 4.26;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter5531-9)"
+         d="m 460.07755,-268.50631 45.17168,0.50168"
+         id="path5681" />
+      <path
+         style="fill:none;stroke:#1e1e24;stroke-width:1.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1.065, 4.26;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 460.07755,-269.03548 45.17168,0.50168"
+         id="path5683" />
+    </g>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,287.1137,306.14115)"
+       id="text1818-6"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:74.6667px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect1820-7);display:inline;filter:url(#filter13276-1)"><tspan
+         x="1243.1562"
+         y="-999.45635"
+         id="tspan21960">¿Que fué lo que </tspan><tspan
+         x="1243.1562"
+         y="-906.12298"
+         id="tspan21962">pasó?</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,295.87184,296.28371)"
+       id="text32963-1"
+       style="font-size:40px;line-height:1.25;font-family:'Montserrat SemiBold';-inkscape-font-specification:'Montserrat SemiBold, ';white-space:pre;shape-inside:url(#rect32965-6);display:inline;filter:url(#filter37595-1)"><tspan
+         x="1210.6836"
+         y="-734.43352"
+         id="tspan21966"><tspan
+           style="font-family:Montserrat;-inkscape-font-specification:Montserrat"
+           id="tspan21964">Log | Ver historial de confirmaciones e 
+</tspan></tspan><tspan
+         x="1210.6836"
+         y="-684.43352"
+         id="tspan21970"><tspan
+           style="font-family:Montserrat;-inkscape-font-specification:Montserrat"
+           id="tspan21968">incrementos
+</tspan></tspan><tspan
+         x="1210.6836"
+         y="-634.43352"
+         id="tspan21974"><tspan
+           style="font-family:Montserrat;-inkscape-font-specification:Montserrat"
+           id="tspan21972">
+</tspan></tspan><tspan
+         x="1210.6836"
+         y="-584.43352"
+         id="tspan21980"><tspan
+           style="font-family:Montserrat;-inkscape-font-specification:Montserrat"
+           id="tspan21976">&gt; </tspan><tspan
+           style="font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono'"
+           id="tspan21978">git log
+</tspan></tspan><tspan
+         x="1210.6836"
+         y="-533.06042"
+         id="tspan21984"><tspan
+           style="font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono'"
+           id="tspan21982">&gt; git log --oneline
+</tspan></tspan><tspan
+         x="1210.6836"
+         y="-481.68731"
+         id="tspan21988"><tspan
+           style="font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono'"
+           id="tspan21986">&gt; git log --all --decorate --</tspan></tspan><tspan
+         x="1210.6836"
+         y="-430.3142"
+         id="tspan21994"><tspan
+           style="font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono'"
+           id="tspan21990">oneline --graph</tspan><tspan
+           style="font-family:Montserrat;-inkscape-font-specification:Montserrat"
+           id="tspan21992">
+</tspan></tspan></text>
+    <g
+       id="g30203-7"
+       transform="matrix(0,2.6368637,2.6368637,0,1074.8449,-690.00078)">
+      <rect
+         style="opacity:1;fill:#ee7a7a;fill-opacity:1;stroke:none;stroke-width:1.065;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:1.065, 4.26;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill;stop-color:#000000"
+         id="rect28427-1"
+         width="4.6844759"
+         height="4.8957615"
+         x="352.49252"
+         y="-91.206635"
+         ry="0.13554342" />
+      <rect
+         style="fill:#5cf1f1;fill-opacity:1;stroke:none;stroke-width:1.065;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:1.065, 4.26;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill;stop-color:#000000"
+         id="rect28427-6-1"
+         width="4.6844759"
+         height="4.8957615"
+         x="357.177"
+         y="-96.102386"
+         ry="0.13554342" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.065;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:1.065, 4.26;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill;stop-color:#000000"
+         id="rect28427-3-5"
+         width="4.6844759"
+         height="4.8957615"
+         x="354.83478"
+         y="-93.65451"
+         ry="0.13554342" />
+    </g>
+    <g
+       id="g9101"
+       transform="matrix(0.76479917,0,0,0.76479917,145.97745,310.70776)">
+      <rect
+         style="opacity:0.96162;fill:#333333;fill-opacity:1;stroke:#000000;stroke-width:1.13041;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill;stop-color:#000000"
+         id="rect6843"
+         width="218.15878"
+         height="76.853073"
+         x="615.62146"
+         y="-148.58397"
+         ry="9.3387327" />
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,-5.8862777,-4.9794379)"
+         id="text7623"
+         style="font-size:34.6667px;line-height:1.25;font-family:'Montserrat SemiBold';-inkscape-font-specification:'Montserrat SemiBold, ';white-space:pre;shape-inside:url(#rect7625);display:inline"><tspan
+           x="2372.6543"
+           y="-487.18494"
+           id="tspan22000"><tspan
+             style="font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#ffffff"
+             id="tspan21996">&gt; </tspan><tspan
+             style="fill:#ffff00"
+             id="tspan21998">git log --all --decorate --oneline </tspan></tspan><tspan
+           x="2372.6543"
+           y="-442.66153"
+           id="tspan22006"><tspan
+             style="fill:#ffff00"
+             id="tspan22002">--graph</tspan><tspan
+             style="font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#ffffff"
+             id="tspan22004">
+</tspan></tspan><tspan
+           x="2372.6543"
+           y="-398.13812"
+           id="tspan22014"><tspan
+             style="font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#ffffff"
+             id="tspan22008">* </tspan><tspan
+             style="fill:#00ff00"
+             id="tspan22010">6a206f0</tspan><tspan
+             style="font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#ffffff"
+             id="tspan22012"> (HEAD -&gt; main, origin/main, </tspan></tspan><tspan
+           x="2372.6543"
+           y="-353.61472"
+           id="tspan22018"><tspan
+             style="font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#ffffff"
+             id="tspan22016">origin/HEAD) Wallpaper IA
+</tspan></tspan><tspan
+           x="2372.6543"
+           y="-309.09131"
+           id="tspan22026"><tspan
+             style="font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#ffffff"
+             id="tspan22020">* </tspan><tspan
+             style="fill:#00ff00"
+             id="tspan22022">5c70577</tspan><tspan
+             style="font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#ffffff"
+             id="tspan22024"> Initial Commit</tspan></tspan></text>
+    </g>
+    <g
+       id="g32619-9"
+       transform="matrix(0,-1.9999998,1.9999998,0,1140.6962,1110.7625)">
+      <circle
+         style="opacity:1;fill:#ee7a7a;fill-opacity:1;stroke:none;stroke-width:2.4239;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:2.4239, 9.6956;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill;stop-color:#000000"
+         id="path32096-77"
+         cx="476.05746"
+         cy="-146.82018"
+         r="3.221427" />
+      <circle
+         style="fill:#5cf1f1;fill-opacity:1;stroke:none;stroke-width:2.4239;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:2.4239, 9.6956;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill;stop-color:#000000"
+         id="path32096-5-6"
+         cx="466.47006"
+         cy="-146.82018"
+         r="3.221427" />
+      <circle
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.4239;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:2.4239, 9.6956;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill;stop-color:#000000"
+         id="path32096-7-7"
+         cx="471.30002"
+         cy="-146.82018"
+         r="3.221427" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Hoja4">
+    <rect
+       style="fill:#fafafa;fill-opacity:1;stroke:none;stroke-width:0.299686;stroke-linecap:square;stroke-linejoin:round;paint-order:stroke markers fill;stop-color:#000000"
+       id="rect13367"
+       width="285.45032"
+       height="285.45032"
+       x="0.29968262"
+       y="301.02835"
+       ry="0.13540126" />
+    <g
+       id="g10712-5-7"
+       transform="translate(-296.09915,307.99005)">
+      <rect
+         style="fill:#5cf1f1;fill-opacity:1;stroke:none;stroke-width:0.529597;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:0.529597, 2.11839;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill;stop-color:#000000"
+         id="rect10702-9-7"
+         width="20.66876"
+         height="19.332409"
+         x="533.61261"
+         y="137.60475"
+         ry="0.067402266" />
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,2.903498,337.94659)"
+         id="text10710-7-6"
+         style="font-size:40px;line-height:1.25;font-family:'Montserrat SemiBold';-inkscape-font-specification:'Montserrat SemiBold, ';text-align:end;white-space:pre;shape-inside:url(#rect10714-1-6);display:inline;filter:url(#filter37595-3-2-1-0)"
+         x="645.0799"
+         y="0"><tspan
+           x="1225.7832"
+           y="-734.43352"
+           id="tspan22030"><tspan
+             style="font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono'"
+             id="tspan22028">&gt; git checkout -b first-change-</tspan></tspan><tspan
+           x="1659.2598"
+           y="-683.06042"
+           id="tspan22034"><tspan
+             style="font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono'"
+             id="tspan22032">branch &lt;&lt;id&gt;&gt;
+</tspan></tspan><tspan
+           x="1379.1104"
+           y="-631.68731"
+           id="tspan22038"><tspan
+             style="font-size:32px;font-family:Montserrat;-inkscape-font-specification:Montserrat"
+             id="tspan22036">Crea una nueva rama y cambia a ella, </tspan></tspan><tspan
+           x="1293.4144"
+           y="-581.68731"
+           id="tspan22042"><tspan
+             style="font-size:32px;font-family:Montserrat;-inkscape-font-specification:Montserrat"
+             id="tspan22040">basándola en el identificador especificado.</tspan></tspan></text>
+    </g>
+    <rect
+       style="fill:#5cf1f1;fill-opacity:1;stroke:none;stroke-width:1.065;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:1.065, 4.26;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill;stop-color:#000000"
+       id="rect9903"
+       width="25.416925"
+       height="84.557304"
+       x="23.327158"
+       y="301.51721"
+       ry="0.13554342" />
+    <g
+       id="g9909"
+       transform="translate(-246.58193,590.49666)">
+      <path
+         style="opacity:0.586285;fill:none;stroke:#1e1e24;stroke-width:1.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1.065, 4.26;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter5531)"
+         d="m 460.07755,-268.50631 45.17168,0.50168"
+         id="path9905" />
+      <path
+         style="fill:none;stroke:#1e1e24;stroke-width:1.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1.065, 4.26;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 460.07755,-269.03548 45.17168,0.50168"
+         id="path9907" />
+    </g>
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.065;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:1.065, 4.26;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill;filter:url(#filter22925);stop-color:#000000"
+       id="rect9911"
+       width="83.950119"
+       height="1.938797"
+       x="175.36768"
+       y="384.13574"
+       ry="0.13554342" />
+    <g
+       id="g9917"
+       transform="translate(-433.71975,839.13033)">
+      <path
+         style="opacity:0.586285;fill:none;stroke:#1e1e24;stroke-width:1.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1.065, 4.26;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter5531-9)"
+         d="m 460.07755,-268.50631 45.17168,0.50168"
+         id="path9913" />
+      <path
+         style="fill:none;stroke:#1e1e24;stroke-width:1.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1.065, 4.26;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 460.07755,-269.03548 45.17168,0.50168"
+         id="path9915" />
+    </g>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-304.33362,605.07832)"
+       id="text9927"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:74.6667px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect9929);display:inline;filter:url(#filter13276)"><tspan
+         x="1243.1562"
+         y="-999.45635"
+         id="tspan22044">Volver en el </tspan><tspan
+         x="1243.1562"
+         y="-906.12298"
+         id="tspan22046">tiempo</tspan></text>
+    <g
+       id="g10692"
+       transform="translate(-297.88726,296.50145)">
+      <g
+         id="g10690">
+        <rect
+           style="fill:#ee7a7a;fill-opacity:1;stroke:none;stroke-width:0.529597;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:0.529597, 2.11839;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill;stop-color:#000000"
+           id="rect10682"
+           width="20.66876"
+           height="19.332409"
+           x="321.53555"
+           y="104.76868"
+           ry="0.067402266" />
+        <text
+           xml:space="preserve"
+           transform="matrix(0.26458333,0,0,0.26458333,32.050236,305.15666)"
+           id="text10688"
+           style="font-size:40px;line-height:1.25;font-family:'Montserrat SemiBold';-inkscape-font-specification:'Montserrat SemiBold, ';white-space:pre;shape-inside:url(#rect10694);display:inline;filter:url(#filter37595-3)"><tspan
+             x="1210.6836"
+             y="-734.43352"
+             id="tspan22050"><tspan
+               style="font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono'"
+               id="tspan22048">&gt; git checkout &lt;&lt;id&gt;&gt;
+</tspan></tspan><tspan
+             x="1210.6836"
+             y="-683.06042"
+             id="tspan22054"><tspan
+               style="font-size:32px;font-family:Montserrat;-inkscape-font-specification:Montserrat"
+               id="tspan22052">Ubicarse en un momento específico </tspan></tspan><tspan
+             x="1210.6836"
+             y="-633.06042"
+             id="tspan22058"><tspan
+               style="font-size:32px;font-family:Montserrat;-inkscape-font-specification:Montserrat"
+               id="tspan22056">identificado por &lt;&lt;id&gt;&gt;</tspan></tspan></text>
+      </g>
+    </g>
+    <g
+       id="g10692-8"
+       transform="translate(-297.88726,400.96114)">
+      <g
+         id="g10690-8">
+        <rect
+           style="fill:#ee7a7a;fill-opacity:1;stroke:none;stroke-width:0.529597;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:0.529597, 2.11839;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill;stop-color:#000000"
+           id="rect10682-5"
+           width="20.66876"
+           height="19.332409"
+           x="321.53555"
+           y="104.76868"
+           ry="0.067402266" />
+        <text
+           xml:space="preserve"
+           transform="matrix(0.26458333,0,0,0.26458333,32.050236,305.15666)"
+           id="text10688-0"
+           style="font-size:40px;line-height:1.25;font-family:'Montserrat SemiBold';-inkscape-font-specification:'Montserrat SemiBold, ';white-space:pre;shape-inside:url(#rect10694-9);display:inline;filter:url(#filter37595-3-48)"><tspan
+             x="1210.6836"
+             y="-734.43352"
+             id="tspan22062"><tspan
+               style="font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono'"
+               id="tspan22060">&gt; git reset --hard &lt;&lt;id&gt;&gt;
+</tspan></tspan><tspan
+             x="1210.6836"
+             y="-683.06042"
+             id="tspan22066"><tspan
+               style="font-size:32px;font-family:Montserrat;-inkscape-font-specification:Montserrat"
+               id="tspan22064">Restablece el índice y el árbol de trabajo al </tspan></tspan><tspan
+             x="1210.6836"
+             y="-633.06042"
+             id="tspan22070"><tspan
+               style="font-size:32px;font-family:Montserrat;-inkscape-font-specification:Montserrat"
+               id="tspan22068">commit especificado por &lt;&lt;id&gt;&gt;. Descarta </tspan></tspan><tspan
+             x="1210.6836"
+             y="-583.06042"
+             id="tspan22074"><tspan
+               style="font-size:32px;font-family:Montserrat;-inkscape-font-specification:Montserrat"
+               id="tspan22072">todos los cambios no confirmados</tspan></tspan></text>
+      </g>
+    </g>
+    <g
+       id="g30203-9"
+       transform="matrix(0,1,1,0,341.13512,209.88465)">
+      <rect
+         style="opacity:1;fill:#ee7a7a;fill-opacity:1;stroke:none;stroke-width:1.065;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:1.065, 4.26;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill;stop-color:#000000"
+         id="rect28427-63"
+         width="4.6844759"
+         height="4.8957615"
+         x="352.49252"
+         y="-91.206635"
+         ry="0.13554342" />
+      <rect
+         style="fill:#5cf1f1;fill-opacity:1;stroke:none;stroke-width:1.065;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:1.065, 4.26;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill;stop-color:#000000"
+         id="rect28427-6-8"
+         width="4.6844759"
+         height="4.8957615"
+         x="357.177"
+         y="-96.102386"
+         ry="0.13554342" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.065;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:1.065, 4.26;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill;stop-color:#000000"
+         id="rect28427-3-56"
+         width="4.6844759"
+         height="4.8957615"
+         x="354.83478"
+         y="-93.65451"
+         ry="0.13554342" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="Hoja5">
+    <rect
+       style="display:inline;fill:#fafafa;fill-opacity:1;stroke:none;stroke-width:0.299686;stroke-linecap:square;stroke-linejoin:round;paint-order:stroke markers fill;stop-color:#000000"
+       id="rect13369"
+       width="285.45032"
+       height="285.45032"
+       x="296.04968"
+       y="301.02835"
+       ry="0.13540126" />
+    <g
+       id="g10712-5"
+       transform="translate(2.9236768,308.68771)">
+      <rect
+         style="fill:#5cf1f1;fill-opacity:1;stroke:none;stroke-width:0.529597;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:0.529597, 2.11839;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill;stop-color:#000000"
+         id="rect10702-9"
+         width="20.66876"
+         height="19.332409"
+         x="533.61261"
+         y="137.60475"
+         ry="0.067402266" />
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,2.903498,337.94659)"
+         id="text10710-7"
+         style="font-size:40px;line-height:1.25;font-family:'Montserrat SemiBold';-inkscape-font-specification:'Montserrat SemiBold, ';text-align:end;white-space:pre;shape-inside:url(#rect10714-1);display:inline;filter:url(#filter37595-3-2-1)"
+         x="645.0799"
+         y="0"><tspan
+           x="1611.0957"
+           y="-734.43352"
+           id="tspan22078"><tspan
+             style="font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono'"
+             id="tspan22076">&gt; git stash pop
+</tspan></tspan><tspan
+           x="1213.6702"
+           y="-683.06042"
+           id="tspan22082"><tspan
+             style="font-size:32px;font-family:Montserrat;-inkscape-font-specification:Montserrat"
+             id="tspan22080">Aplica los cambios más recientes guardados en </tspan></tspan><tspan
+           x="1393.4464"
+           y="-633.06042"
+           id="tspan22086"><tspan
+             style="font-size:32px;font-family:Montserrat;-inkscape-font-specification:Montserrat"
+             id="tspan22084">el stash y los elimina de esta área de </tspan></tspan><tspan
+           x="1543.8461"
+           y="-583.06042"
+           id="tspan22090"><tspan
+             style="font-size:32px;font-family:Montserrat;-inkscape-font-specification:Montserrat"
+             id="tspan22088">almacenamiento temporal</tspan></tspan></text>
+    </g>
+    <rect
+       style="fill:#5cf1f1;fill-opacity:1;stroke:none;stroke-width:1.065;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:1.065, 4.26;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill;stop-color:#000000"
+       id="rect13984"
+       width="25.416925"
+       height="84.557304"
+       x="322.47205"
+       y="300.47687"
+       ry="0.13554342" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-6.4463631,605.07832)"
+       id="text9927-5"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:74.6667px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect9929-1);display:inline;filter:url(#filter13276-0)"><tspan
+         x="1243.1562"
+         y="-999.45635"
+         id="tspan22092">Poner pausa al </tspan><tspan
+         x="1243.1562"
+         y="-906.12298"
+         id="tspan22094">tiempo</tspan></text>
+    <g
+       id="g13990"
+       transform="translate(52.562982,589.45631)">
+      <path
+         style="opacity:0.586285;fill:none;stroke:#1e1e24;stroke-width:1.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1.065, 4.26;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter5531)"
+         d="m 460.07755,-268.50631 45.17168,0.50168"
+         id="path13986" />
+      <path
+         style="fill:none;stroke:#1e1e24;stroke-width:1.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1.065, 4.26;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 460.07755,-269.03548 45.17168,0.50168"
+         id="path13988" />
+    </g>
+    <g
+       id="g10692-3"
+       transform="translate(-3.1116384e-6,296.50145)">
+      <g
+         id="g10690-88">
+        <rect
+           style="fill:#ee7a7a;fill-opacity:1;stroke:none;stroke-width:0.529597;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:0.529597, 2.11839;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill;stop-color:#000000"
+           id="rect10682-3"
+           width="20.66876"
+           height="19.332409"
+           x="321.53555"
+           y="104.76868"
+           ry="0.067402266" />
+        <text
+           xml:space="preserve"
+           transform="matrix(0.26458333,0,0,0.26458333,32.050236,305.15666)"
+           id="text10688-1"
+           style="font-size:40px;line-height:1.25;font-family:'Montserrat SemiBold';-inkscape-font-specification:'Montserrat SemiBold, ';white-space:pre;shape-inside:url(#rect10694-7);display:inline;filter:url(#filter37595-3-63)"><tspan
+             x="1210.6836"
+             y="-734.43352"
+             id="tspan22098"><tspan
+               style="font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono'"
+               id="tspan22096">&gt; git stash
+</tspan></tspan><tspan
+             x="1210.6836"
+             y="-683.06042"
+             id="tspan22102"><tspan
+               style="font-size:32px;font-family:Montserrat;-inkscape-font-specification:Montserrat"
+               id="tspan22100">Guarda temporalmente los cambios no </tspan></tspan><tspan
+             x="1210.6836"
+             y="-633.06042"
+             id="tspan22106"><tspan
+               style="font-size:32px;font-family:Montserrat;-inkscape-font-specification:Montserrat"
+               id="tspan22104">confirmados en un área temporal</tspan></tspan></text>
+      </g>
+    </g>
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.065;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:1.065, 4.26;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill;filter:url(#filter22925);stop-color:#000000"
+       id="rect13992"
+       width="83.950119"
+       height="1.938797"
+       x="474.51257"
+       y="383.0954"
+       ry="0.13554342" />
+    <g
+       id="g13998"
+       transform="translate(-134.57485,838.08998)">
+      <path
+         style="opacity:0.586285;fill:none;stroke:#1e1e24;stroke-width:1.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1.065, 4.26;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter5531-9)"
+         d="m 460.07755,-268.50631 45.17168,0.50168"
+         id="path13994" />
+      <path
+         style="fill:none;stroke:#1e1e24;stroke-width:1.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1.065, 4.26;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 460.07755,-269.03548 45.17168,0.50168"
+         id="path13996" />
+    </g>
+    <g
+       id="g30203-9-3"
+       transform="matrix(0,1,1,0,639.02238,209.88465)">
+      <rect
+         style="opacity:1;fill:#ee7a7a;fill-opacity:1;stroke:none;stroke-width:1.065;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:1.065, 4.26;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill;stop-color:#000000"
+         id="rect28427-63-3"
+         width="4.6844759"
+         height="4.8957615"
+         x="352.49252"
+         y="-91.206635"
+         ry="0.13554342" />
+      <rect
+         style="fill:#5cf1f1;fill-opacity:1;stroke:none;stroke-width:1.065;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:1.065, 4.26;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill;stop-color:#000000"
+         id="rect28427-6-8-3"
+         width="4.6844759"
+         height="4.8957615"
+         x="357.177"
+         y="-96.102386"
+         ry="0.13554342" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.065;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:1.065, 4.26;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill;stop-color:#000000"
+         id="rect28427-3-56-8"
+         width="4.6844759"
+         height="4.8957615"
+         x="354.83478"
+         y="-93.65451"
+         ry="0.13554342" />
+    </g>
+    <rect
+       style="fill:#5cf1f1;fill-opacity:1;stroke:none;stroke-width:1.065;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:1.065, 4.26;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill;stop-color:#000000"
+       id="rect19907-3"
+       width="69.521049"
+       height="74.229424"
+       x="458.15076"
+       y="512.54889"
+       ry="0.13554342" />
+    <g
+       id="g32619-0"
+       transform="matrix(2.7011339,0,0,2.7011339,-930.74222,922.59554)">
+      <circle
+         style="opacity:1;fill:#ee7a7a;fill-opacity:1;stroke:none;stroke-width:2.4239;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:2.4239, 9.6956;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill;stop-color:#000000"
+         id="path32096-3"
+         cx="476.05746"
+         cy="-146.82018"
+         r="3.221427" />
+      <circle
+         style="fill:#5cf1f1;fill-opacity:1;stroke:none;stroke-width:2.4239;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:2.4239, 9.6956;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill;stop-color:#000000"
+         id="path32096-5-0"
+         cx="466.47006"
+         cy="-146.82018"
+         r="3.221427" />
+      <circle
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.4239;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:2.4239, 9.6956;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill;stop-color:#000000"
+         id="path32096-7-9"
+         cx="471.30002"
+         cy="-146.82018"
+         r="3.221427" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="Hoja6">
+    <rect
+       style="display:inline;fill:#fafafa;fill-opacity:1;stroke:none;stroke-width:0.299686;stroke-linecap:square;stroke-linejoin:round;paint-order:stroke markers fill;stop-color:#000000"
+       id="rect18181"
+       width="285.45032"
+       height="285.45032"
+       x="591.5"
+       y="301.328"
+       ry="0.13540126" />
+    <g
+       id="g18188"
+       transform="translate(348.42914,585.61051)">
+      <path
+         style="opacity:0.586285;fill:none;stroke:#1e1e24;stroke-width:1.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1.065, 4.26;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter5531)"
+         d="m 460.07755,-268.50631 45.17168,0.50168"
+         id="path18184" />
+      <path
+         style="fill:none;stroke:#1e1e24;stroke-width:1.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1.065, 4.26;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 460.07755,-269.03548 45.17168,0.50168"
+         id="path18186" />
+    </g>
+    <rect
+       style="fill:#5cf1f1;fill-opacity:1;stroke:none;stroke-width:1.065;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:1.065, 4.26;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill;stop-color:#000000"
+       id="rect18190"
+       width="25.416925"
+       height="84.557304"
+       x="616.1532"
+       y="315.92111"
+       ry="0.13554342" />
+    <g
+       id="g18196"
+       transform="translate(156.73222,832.81864)">
+      <path
+         style="opacity:0.586285;fill:none;stroke:#1e1e24;stroke-width:1.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1.065, 4.26;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter5531)"
+         d="m 460.07755,-268.50631 45.17168,0.50168"
+         id="path18192" />
+      <path
+         style="fill:none;stroke:#1e1e24;stroke-width:1.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1.065, 4.26;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 460.07755,-269.03548 45.17168,0.50168"
+         id="path18194" />
+    </g>
+    <rect
+       style="fill:#5cf1f1;fill-opacity:1;stroke:none;stroke-width:1.065;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:1.065, 4.26;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill;stop-color:#000000"
+       id="rect18198"
+       width="69.521049"
+       height="74.229424"
+       x="786.7099"
+       y="488.89987"
+       ry="0.13554342" />
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.065;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:1.065, 4.26;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill;filter:url(#filter22925);stop-color:#000000"
+       id="rect18200"
+       width="83.950119"
+       height="1.938797"
+       x="770.37885"
+       y="382.18845"
+       ry="0.13554342" />
+    <g
+       id="g18228"
+       transform="matrix(1.8994786,0,0,1.8994786,798.67668,421.94455)">
+      <path
+         d="m 23.561523,10.932022 c -9.76e-4,0 -9.76e-4,-4.88e-4 -9.76e-4,-4.88e-4 L 13.061523,0.4256744 c -0.566406,-0.567749 -1.557617,-0.5672607 -2.12207,-4.883e-4 L 0.4384766,10.932022 C 0.15625,11.215897 0,11.592606 0,11.992752 c 0,0.400635 0.15625,0.777771 0.4394531,1.061157 l 10.4990239,10.50586 c 0.283203,0.283874 0.660156,0.440246 1.061523,0.440246 0.401367,0 0.77832,-0.156372 1.060547,-0.439758 l 10.5,-10.506348 C 23.84375,12.770523 24,12.393387 24,11.992752 c 0,-0.400146 -0.15625,-0.776855 -0.438477,-1.06073 z"
+         fill="#ef473b"
+         id="path18204" />
+      <path
+         d="M 23.680969,12.689896 13.071594,23.305679 C 12.786438,23.591995 12.405518,23.750015 12,23.750015 c -0.405518,0 -0.786438,-0.15802 -1.072571,-0.444824 L 0.3190308,12.689896 c -0.1239624,-0.124085 -0.218689,-0.268372 -0.2921143,-0.422242 0.0545654,0.29596 0.1953125,0.568909 0.4125366,0.786255 l 10.4990239,10.50586 c 0.283203,0.283874 0.660156,0.440246 1.061523,0.440246 0.401367,0 0.77832,-0.156372 1.060547,-0.439758 l 10.5,-10.506348 c 0.217224,-0.217346 0.358032,-0.490295 0.412598,-0.786255 -0.07343,0.15387 -0.168213,0.298157 -0.292176,0.422242 z"
+         fill="#010101"
+         opacity="0.1"
+         id="path18206" />
+      <path
+         d="m 17,10.000015 c -0.374878,0 -0.721985,0.110047 -1.022217,0.290283 L 13.709717,8.0222321 C 13.889893,7.7220612 14,7.3749542 14,7.0000153 c 0,-1.1030273 -0.897461,-2 -2,-2 -0.369873,0 -0.71228,0.1077881 -1.009827,0.2835693 L 8.536438,2.8295441 7.8295898,3.5367584 10.283264,5.9907379 C 10.107727,6.2881012 10,6.6303253 10,7.0000153 c 0,0.9293213 0.640015,1.7053833 1.5,1.9289551 V 15.07106 c -0.859985,0.223572 -1.5,0.999634 -1.5,1.928955 0,1.103028 0.897461,2 2,2 1.102539,0 2,-0.896972 2,-2 0,-0.929321 -0.640015,-1.705383 -1.5,-1.928955 V 8.9289703 c 0.176758,-0.04596 0.342529,-0.1158447 0.496887,-0.2055054 L 15.27655,11.003128 C 15.105347,11.297806 15,11.63533 15,12.000015 c 0,1.103028 0.897461,2 2,2 1.102539,0 2,-0.896972 2,-2 0,-1.103027 -0.897461,-2 -2,-2 z"
+         fill="#ffffff"
+         id="path18208" />
+      <path
+         d="M 0.4384766,11.182022 10.939453,0.6751862 c 0.564453,-0.5667725 1.555664,-0.5672607 2.12207,4.883e-4 L 23.560547,11.181534 c 0,0 0,4.88e-4 9.76e-4,4.88e-4 0.25232,0.253784 0.396973,0.583252 0.42627,0.935791 C 23.991272,12.075943 24,12.035232 24,11.992752 c 0,-0.400146 -0.15625,-0.776855 -0.438477,-1.06073 -9.76e-4,0 -9.76e-4,-4.88e-4 -9.76e-4,-4.88e-4 L 13.061523,0.4256744 c -0.566406,-0.567749 -1.557617,-0.5672607 -2.12207,-4.883e-4 L 0.4384766,10.932022 C 0.15625,11.215897 0,11.592606 0,11.992752 c 0,0.04242 0.008728,0.08313 0.012207,0.124939 0.0293579,-0.352539 0.1740113,-0.681946 0.4262696,-0.935669 z"
+         fill="#ffffff"
+         opacity="0.2"
+         id="path18210" />
+      <linearGradient
+         gradientUnits="userSpaceOnUse"
+         id="linearGradient18216"
+         x1="9.6692657"
+         x2="18.306595"
+         y1="9.6760864"
+         y2="18.313416">
+        <stop
+           offset="0"
+           style="stop-color:#010101;stop-opacity:0.1"
+           id="stop18212" />
+        <stop
+           offset="1"
+           style="stop-color:#010101;stop-opacity:0"
+           id="stop18214" />
+      </linearGradient>
+      <path
+         d="M 18.548828,10.750382 C 18.826538,11.093826 19,11.524857 19,12.000015 c 0,1.103028 -0.897461,2 -2,2 -1.102539,0 -2,-0.896972 -2,-2 0,-0.364685 0.105347,-0.702209 0.27655,-0.996887 L 12.996887,8.723465 C 12.842529,8.8131256 12.676758,8.8830109 12.5,8.9289703 V 15.07106 c 0.859985,0.223572 1.5,0.999634 1.5,1.928955 0,1.103027 -0.897461,2 -2,2 -0.511475,0 -0.973816,-0.198669 -1.327881,-0.515747 l 3.731812,3.731812 7.802917,-7.807679 z M 13.709717,8.0222321 15.977783,10.290299 C 16.278015,10.110062 16.625122,10.000015 17,10.000015 c 0.475098,0 0.90625,0.173523 1.249817,0.451355 l -4.677673,-4.6777341 -0.0024,0.00201 C 13.835144,6.1150665 14,6.5366364 14,7.0000153 14,7.3749542 13.889893,7.7220612 13.709717,8.0222321 Z"
+         fill="url(#SVGID_1_)"
+         id="path18218"
+         style="fill:url(#linearGradient18248)" />
+      <linearGradient
+         gradientUnits="userSpaceOnUse"
+         id="linearGradient18224"
+         x1="2.0138185"
+         x2="21.983366"
+         y1="7.3399205"
+         y2="16.651873">
+        <stop
+           offset="0"
+           style="stop-color:#FFFFFF;stop-opacity:0.2"
+           id="stop18220" />
+        <stop
+           offset="1"
+           style="stop-color:#FFFFFF;stop-opacity:0"
+           id="stop18222" />
+      </linearGradient>
+      <path
+         d="m 23.561523,10.932022 c -9.76e-4,0 -9.76e-4,-4.88e-4 -9.76e-4,-4.88e-4 L 13.061523,0.4256744 c -0.566406,-0.567749 -1.557617,-0.5672607 -2.12207,-4.883e-4 L 0.4384766,10.932022 C 0.15625,11.215897 0,11.592606 0,11.992752 c 0,0.400635 0.15625,0.777771 0.4394531,1.061157 l 10.4990239,10.50586 c 0.283203,0.283874 0.660156,0.440246 1.061523,0.440246 0.401367,0 0.77832,-0.156372 1.060547,-0.439758 l 10.5,-10.506348 C 23.84375,12.770523 24,12.393387 24,11.992752 c 0,-0.400146 -0.15625,-0.776855 -0.438477,-1.06073 z"
+         fill="url(#SVGID_2_)"
+         id="path18226"
+         style="fill:url(#linearGradient18250)" />
+    </g>
+    <g
+       id="g18236"
+       transform="matrix(0,1,1,0,820.76257,202.35176)">
+      <rect
+         style="opacity:1;fill:#ee7a7a;fill-opacity:1;stroke:none;stroke-width:1.065;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:1.065, 4.26;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill;stop-color:#000000"
+         id="rect18230"
+         width="4.6844759"
+         height="4.8957615"
+         x="352.49252"
+         y="-91.206635"
+         ry="0.13554342" />
+      <rect
+         style="fill:#5cf1f1;fill-opacity:1;stroke:none;stroke-width:1.065;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:1.065, 4.26;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill;stop-color:#000000"
+         id="rect18232"
+         width="4.6844759"
+         height="4.8957615"
+         x="357.177"
+         y="-96.102386"
+         ry="0.13554342" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.065;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:1.065, 4.26;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill;stop-color:#000000"
+         id="rect18234"
+         width="4.6844759"
+         height="4.8957615"
+         x="354.83478"
+         y="-93.65451"
+         ry="0.13554342" />
+    </g>
+    <g
+       id="g18244"
+       transform="translate(148.15596,593.02503)">
+      <circle
+         style="opacity:1;fill:#ee7a7a;fill-opacity:1;stroke:none;stroke-width:2.4239;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:2.4239, 9.6956;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill;stop-color:#000000"
+         id="circle18238"
+         cx="476.05746"
+         cy="-146.82018"
+         r="3.221427" />
+      <circle
+         style="fill:#5cf1f1;fill-opacity:1;stroke:none;stroke-width:2.4239;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:2.4239, 9.6956;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill;stop-color:#000000"
+         id="circle18240"
+         cx="466.47006"
+         cy="-146.82018"
+         r="3.221427" />
+      <circle
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.4239;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:2.4239, 9.6956;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill;stop-color:#000000"
+         id="circle18242"
+         cx="471.30002"
+         cy="-146.82018"
+         r="3.221427" />
+    </g>
+    <rect
+       style="fill:#ee7a7a;stroke-width:1.61159;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:1.61159, 6.44632;paint-order:stroke markers fill;stop-color:#000000"
+       id="rect18246"
+       width="21.898445"
+       height="21.898445"
+       x="90.854317"
+       y="-884.64923"
+       ry="0.21790709"
+       transform="matrix(0.70710678,-0.70710678,-0.70710678,-0.70710678,0,0)"
+       inkscape:transform-center-x="4.4879155"
+       inkscape:transform-center-y="-1.2349515" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,288.81728,617.37367)"
+       id="text18899"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:74.6667px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat Semi-Bold';white-space:pre;shape-inside:url(#rect18901);display:inline;filter:url(#filter13276)"><tspan
+         x="1243.1562"
+         y="-999.45635"
+         id="tspan22108">Git y los viajes en </tspan><tspan
+         x="1243.1562"
+         y="-906.12298"
+         id="tspan22110">el tiempo</tspan></text>
+    <g
+       id="g20768"
+       transform="translate(-1.24227,8.1498874)">
+      <rect
+         style="fill:#ee7a7a;fill-opacity:1;stroke:none;stroke-width:0.459393;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:0.459393, 1.83757;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill;stop-color:#000000"
+         id="rect18202"
+         width="17.928881"
+         height="16.769678"
+         x="636.20612"
+         y="407.99188"
+         ry="0.058467329" />
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,5.8208336,0)"
+         id="text20759"
+         style="font-size:40px;line-height:1.25;font-family:'Montserrat SemiBold';-inkscape-font-specification:'Montserrat SemiBold, ';white-space:pre;shape-inside:url(#rect20761);display:inline"><tspan
+           x="2472.3203"
+           y="1588.4473"
+           id="tspan22114"><tspan
+             style="font-family:Montserrat;-inkscape-font-specification:Montserrat"
+             id="tspan22112">Main</tspan></tspan></text>
+    </g>
+    <g
+       id="g20825"
+       transform="translate(0,-1.494375e-5)">
+      <rect
+         style="fill:#5cf1f1;fill-opacity:1;stroke:none;stroke-width:0.459393;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:0.459393, 1.83757;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill;stop-color:#000000"
+         id="rect18202-4"
+         width="17.928881"
+         height="16.769678"
+         x="764.23895"
+         y="416.14178"
+         ry="0.058467329" />
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,60.528108,7.1497717)"
+         id="text20759-0"
+         style="font-size:40px;line-height:1.25;font-family:'Montserrat SemiBold';-inkscape-font-specification:'Montserrat SemiBold, ';white-space:pre;shape-inside:url(#rect20761-2);display:inline"><tspan
+           x="2472.3203"
+           y="1588.4473"
+           id="tspan22118"><tspan
+             style="font-family:Montserrat;-inkscape-font-specification:Montserrat"
+             id="tspan22116">Develop</tspan></tspan></text>
+    </g>
+    <g
+       id="g21471"
+       transform="matrix(0.76479916,0,0,0.76479916,145.97746,570.37715)">
+      <rect
+         style="opacity:0.96162;fill:#333333;fill-opacity:1;stroke:#000000;stroke-width:1.13041;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill;stop-color:#000000"
+         id="rect21459"
+         width="218.15878"
+         height="76.853073"
+         x="615.62146"
+         y="-148.58397"
+         ry="9.3387327" />
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,-5.8862777,-4.9794379)"
+         id="text21469"
+         style="font-size:34.6667px;line-height:1.25;font-family:'Montserrat SemiBold';-inkscape-font-specification:'Montserrat SemiBold, ';white-space:pre;shape-inside:url(#rect21473);display:inline"><tspan
+           x="2372.6543"
+           y="-487.18494"
+           id="tspan22124"><tspan
+             style="font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#ffffff"
+             id="tspan22120">&gt; </tspan><tspan
+             style="fill:#ffff00"
+             id="tspan22122">git init
+</tspan></tspan><tspan
+           x="2372.6543"
+           y="-442.66153"
+           id="tspan22128"><tspan
+             style="fill:#ffff00"
+             id="tspan22126">&gt; git add .
+</tspan></tspan><tspan
+           x="2372.6543"
+           y="-398.13812"
+           id="tspan22132"><tspan
+             style="fill:#ffff00"
+             id="tspan22130">&gt; git commit -m &quot;Comunidad&quot;
+</tspan></tspan><tspan
+           x="2372.6543"
+           y="-353.61472"
+           id="tspan22136"><tspan
+             style="fill:#ffff00"
+             id="tspan22134">&gt; git push 
+</tspan></tspan></text>
+    </g>
   </g>
 </svg>
