@@ -25,9 +25,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.5316396"
-     inkscape:cx="2813.9364"
-     inkscape:cy="1497.2549"
+     inkscape:zoom="0.75185193"
+     inkscape:cx="2775.8125"
+     inkscape:cy="1677.1919"
      inkscape:window-width="1919"
      inkscape:window-height="1021"
      inkscape:window-x="1"
@@ -40,37 +40,55 @@
        y="0"
        width="285.75"
        height="285.75"
-       id="page466" />
+       id="page466"
+       inkscape:export-filename="../git1.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
     <inkscape:page
        x="295.75"
        y="0"
        width="285.75"
        height="285.75"
-       id="page468" />
+       id="page468"
+       inkscape:export-filename="../git2.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
     <inkscape:page
        x="591.5"
        y="0"
        width="285.75"
        height="285.75"
-       id="page5665" />
+       id="page5665"
+       inkscape:export-filename="../git3.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
     <inkscape:page
        x="0"
        y="301.02835"
        width="285.75"
        height="285.75"
-       id="page9850" />
+       id="page9850"
+       inkscape:export-filename="../git4.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
     <inkscape:page
        x="295.75"
        y="301.02835"
        width="285.75"
        height="285.74997"
-       id="page13010" />
+       id="page13010"
+       inkscape:export-filename="../git5.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
     <inkscape:page
        x="591.5"
        y="301.02835"
        width="285.75"
        height="285.74997"
-       id="page18179" />
+       id="page18179"
+       inkscape:export-filename="../git6.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
   </sodipodi:namedview>
   <defs
      id="defs52322">
@@ -997,10 +1015,10 @@
        style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:74.6667px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat Semi-Bold';white-space:pre;shape-inside:url(#rect9897);display:inline;filter:url(#filter13276)"><tspan
          x="1243.1562"
          y="-999.45635"
-         id="tspan21880">Administración de </tspan><tspan
+         id="tspan24548">Administración de </tspan><tspan
          x="1243.1562"
          y="-906.12298"
-         id="tspan21882">proyectos con GIT</tspan></text>
+         id="tspan24550">proyectos con GIT</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-303.65774,483.75382)"
@@ -1008,9 +1026,9 @@
        style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:48px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat Semi-Bold';white-space:pre;shape-inside:url(#rect9897-1);display:inline;filter:url(#filter13276-9)"><tspan
          x="1243.1562"
          y="-1023.9655"
-         id="tspan21886"><tspan
+         id="tspan24554"><tspan
            style="font-weight:normal"
-           id="tspan21884">Viajes en el tiempo</tspan></tspan></text>
+           id="tspan24552">Viajes en el tiempo</tspan></tspan></text>
     <g
        id="g19556"
        transform="translate(-435.10333,535.65673)">
@@ -1168,19 +1186,19 @@
        style="font-size:40px;line-height:1.25;font-family:'Montserrat SemiBold';-inkscape-font-specification:'Montserrat SemiBold, ';white-space:pre;shape-inside:url(#rect32965);display:inline;filter:url(#filter37595)"><tspan
          x="1210.6836"
          y="-734.43352"
-         id="tspan21890"><tspan
+         id="tspan24558"><tspan
            style="font-family:Montserrat;-inkscape-font-specification:Montserrat"
-           id="tspan21888">Git es un sistema de control de </tspan></tspan><tspan
+           id="tspan24556">Git es un sistema de control de </tspan></tspan><tspan
          x="1210.6836"
          y="-684.43352"
-         id="tspan21894"><tspan
+         id="tspan24562"><tspan
            style="font-family:Montserrat;-inkscape-font-specification:Montserrat"
-           id="tspan21892">versiones distribuido, gratuito y de </tspan></tspan><tspan
+           id="tspan24560">versiones distribuido, gratuito y de </tspan></tspan><tspan
          x="1210.6836"
          y="-634.43352"
-         id="tspan21898"><tspan
+         id="tspan24566"><tspan
            style="font-family:Montserrat;-inkscape-font-specification:Montserrat"
-           id="tspan21896">código abierto</tspan></tspan></text>
+           id="tspan24564">código abierto</tspan></tspan></text>
     <rect
        style="fill:#ee7a7a;stroke-width:1.61159;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:1.61159, 6.44632;paint-order:stroke markers fill;stop-color:#000000"
        id="rect60024"
@@ -1220,10 +1238,10 @@
        style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:74.6667px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect1820);display:inline;filter:url(#filter13276)"><tspan
          x="1243.1562"
          y="-999.45635"
-         id="tspan21900">Kit de </tspan><tspan
+         id="tspan24568">Kit de </tspan><tspan
          x="1243.1562"
          y="-906.12298"
-         id="tspan21902">herramientas </tspan></text>
+         id="tspan24570">herramientas </tspan></text>
     <text
        xml:space="preserve"
        style="font-size:10.5833px;line-height:1.25;font-family:'Montserrat SemiBold';-inkscape-font-specification:'Montserrat SemiBold, ';stroke-width:0.264583"
@@ -1266,15 +1284,15 @@
            style="font-size:40px;line-height:1.25;font-family:'Montserrat SemiBold';-inkscape-font-specification:'Montserrat SemiBold, ';white-space:pre;shape-inside:url(#rect32965-5);display:inline;filter:url(#filter37595-3)"><tspan
              x="1210.6836"
              y="-734.43352"
-             id="tspan21906"><tspan
+             id="tspan24574"><tspan
                style="font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono'"
-               id="tspan21904">&gt; git init
+               id="tspan24572">&gt; git init
 </tspan></tspan><tspan
              x="1210.6836"
              y="-683.06042"
-             id="tspan21910"><tspan
+             id="tspan24578"><tspan
                style="font-family:Montserrat;-inkscape-font-specification:Montserrat"
-               id="tspan21908">Empieza la aventura</tspan></tspan></text>
+               id="tspan24576">Empieza la aventura</tspan></tspan></text>
       </g>
     </g>
     <g
@@ -1295,15 +1313,15 @@
          style="font-size:40px;line-height:1.25;font-family:'Montserrat SemiBold';-inkscape-font-specification:'Montserrat SemiBold, ';white-space:pre;shape-inside:url(#rect32965-5-31);display:inline;filter:url(#filter37595-3-4)"><tspan
            x="1210.6836"
            y="-734.43352"
-           id="tspan21914"><tspan
+           id="tspan24582"><tspan
              style="font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono'"
-             id="tspan21912">&gt; git pull
+             id="tspan24580">&gt; git pull
 </tspan></tspan><tspan
            x="1210.6836"
            y="-683.06042"
-           id="tspan21918"><tspan
+           id="tspan24586"><tspan
              style="font-family:Montserrat;-inkscape-font-specification:Montserrat"
-             id="tspan21916">Traer a local la versión en remoto</tspan></tspan></text>
+             id="tspan24584">Traer a local la versión en remoto</tspan></tspan></text>
     </g>
     <g
        id="g2926-5"
@@ -1323,15 +1341,15 @@
          style="font-size:40px;line-height:1.25;font-family:'Montserrat SemiBold';-inkscape-font-specification:'Montserrat SemiBold, ';white-space:pre;shape-inside:url(#rect32965-5-5);display:inline;filter:url(#filter37595-3-6)"><tspan
            x="1210.6836"
            y="-734.43352"
-           id="tspan21922"><tspan
+           id="tspan24590"><tspan
              style="font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono'"
-             id="tspan21920">&gt; git commit -m &quot;text&quot;
+             id="tspan24588">&gt; git commit -m &quot;text&quot;
 </tspan></tspan><tspan
            x="1210.6836"
            y="-683.06042"
-           id="tspan21926"><tspan
+           id="tspan24594"><tspan
              style="font-family:Montserrat;-inkscape-font-specification:Montserrat"
-             id="tspan21924">Mensaje para incremento</tspan></tspan></text>
+             id="tspan24592">Mensaje para incremento</tspan></tspan></text>
     </g>
     <g
        id="g3400"
@@ -1353,15 +1371,15 @@
          y="0"><tspan
            x="1707.4238"
            y="-734.43352"
-           id="tspan21930"><tspan
+           id="tspan24598"><tspan
              style="font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono'"
-             id="tspan21928">&gt; git add .
+             id="tspan24596">&gt; git add .
 </tspan></tspan><tspan
            x="1325.3262"
            y="-683.06042"
-           id="tspan21934"><tspan
+           id="tspan24602"><tspan
              style="font-family:Montserrat;-inkscape-font-specification:Montserrat"
-             id="tspan21932">Agrega todo al paq seguimiento</tspan></tspan></text>
+             id="tspan24600">Agrega todo al paq seguimiento</tspan></tspan></text>
     </g>
     <g
        id="g3629"
@@ -1383,15 +1401,15 @@
          y="0"><tspan
            x="1731.5059"
            y="-734.43352"
-           id="tspan21938"><tspan
+           id="tspan24606"><tspan
              style="font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono'"
-             id="tspan21936">&gt; git push
+             id="tspan24604">&gt; git push
 </tspan></tspan><tspan
            x="1561.2462"
            y="-683.06042"
-           id="tspan21942"><tspan
+           id="tspan24610"><tspan
              style="font-family:Montserrat;-inkscape-font-specification:Montserrat"
-             id="tspan21940">Publicar incremento</tspan></tspan></text>
+             id="tspan24608">Publicar incremento</tspan></tspan></text>
     </g>
     <rect
        style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.065;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:1.065, 4.26;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill;filter:url(#filter22925);stop-color:#000000"
@@ -1433,25 +1451,25 @@
          y="0"><tspan
            x="1298.0293"
            y="-734.43352"
-           id="tspan21946"><tspan
+           id="tspan24614"><tspan
              style="font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono'"
-             id="tspan21944">&gt; git -b first-change-branch </tspan></tspan><tspan
+             id="tspan24612">&gt; git -b first-change-branch </tspan></tspan><tspan
            x="1827.834"
            y="-683.06042"
-           id="tspan21950"><tspan
+           id="tspan24618"><tspan
              style="font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono'"
-             id="tspan21948">&lt;&lt;id&gt;&gt;
+             id="tspan24616">&lt;&lt;id&gt;&gt;
 </tspan></tspan><tspan
            x="1379.1104"
            y="-631.68731"
-           id="tspan21954"><tspan
+           id="tspan24622"><tspan
              style="font-size:32px;font-family:Montserrat;-inkscape-font-specification:Montserrat"
-             id="tspan21952">Crea una nueva rama y cambia a ella, </tspan></tspan><tspan
+             id="tspan24620">Crea una nueva rama y cambia a ella, </tspan></tspan><tspan
            x="1216.9662"
            y="-581.68731"
-           id="tspan21958"><tspan
+           id="tspan24626"><tspan
              style="font-size:32px;font-family:Montserrat;-inkscape-font-specification:Montserrat"
-             id="tspan21956">basándose al contenido identificado por &lt;&lt;id&gt;&gt;</tspan></tspan></text>
+             id="tspan24624">basándose al contenido identificado por &lt;&lt;id&gt;&gt;</tspan></tspan></text>
     </g>
   </g>
   <g
@@ -1518,10 +1536,10 @@
        style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:74.6667px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect1820-7);display:inline;filter:url(#filter13276-1)"><tspan
          x="1243.1562"
          y="-999.45635"
-         id="tspan21960">¿Que fué lo que </tspan><tspan
+         id="tspan24628">¿Que fué lo que </tspan><tspan
          x="1243.1562"
          y="-906.12298"
-         id="tspan21962">pasó?</tspan></text>
+         id="tspan24630">pasó?</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,295.87184,296.28371)"
@@ -1529,48 +1547,48 @@
        style="font-size:40px;line-height:1.25;font-family:'Montserrat SemiBold';-inkscape-font-specification:'Montserrat SemiBold, ';white-space:pre;shape-inside:url(#rect32965-6);display:inline;filter:url(#filter37595-1)"><tspan
          x="1210.6836"
          y="-734.43352"
-         id="tspan21966"><tspan
+         id="tspan24634"><tspan
            style="font-family:Montserrat;-inkscape-font-specification:Montserrat"
-           id="tspan21964">Log | Ver historial de confirmaciones e 
+           id="tspan24632">Log | Ver historial de confirmaciones e 
 </tspan></tspan><tspan
          x="1210.6836"
          y="-684.43352"
-         id="tspan21970"><tspan
+         id="tspan24638"><tspan
            style="font-family:Montserrat;-inkscape-font-specification:Montserrat"
-           id="tspan21968">incrementos
+           id="tspan24636">incrementos
 </tspan></tspan><tspan
          x="1210.6836"
          y="-634.43352"
-         id="tspan21974"><tspan
+         id="tspan24642"><tspan
            style="font-family:Montserrat;-inkscape-font-specification:Montserrat"
-           id="tspan21972">
+           id="tspan24640">
 </tspan></tspan><tspan
          x="1210.6836"
          y="-584.43352"
-         id="tspan21980"><tspan
+         id="tspan24648"><tspan
            style="font-family:Montserrat;-inkscape-font-specification:Montserrat"
-           id="tspan21976">&gt; </tspan><tspan
+           id="tspan24644">&gt; </tspan><tspan
            style="font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono'"
-           id="tspan21978">git log
+           id="tspan24646">git log
 </tspan></tspan><tspan
          x="1210.6836"
          y="-533.06042"
-         id="tspan21984"><tspan
+         id="tspan24652"><tspan
            style="font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono'"
-           id="tspan21982">&gt; git log --oneline
+           id="tspan24650">&gt; git log --oneline
 </tspan></tspan><tspan
          x="1210.6836"
          y="-481.68731"
-         id="tspan21988"><tspan
+         id="tspan24656"><tspan
            style="font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono'"
-           id="tspan21986">&gt; git log --all --decorate --</tspan></tspan><tspan
+           id="tspan24654">&gt; git log --all --decorate --</tspan></tspan><tspan
          x="1210.6836"
          y="-430.3142"
-         id="tspan21994"><tspan
+         id="tspan24662"><tspan
            style="font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono'"
-           id="tspan21990">oneline --graph</tspan><tspan
+           id="tspan24658">oneline --graph</tspan><tspan
            style="font-family:Montserrat;-inkscape-font-specification:Montserrat"
-           id="tspan21992">
+           id="tspan24660">
 </tspan></tspan></text>
     <g
        id="g30203-7"
@@ -1618,43 +1636,43 @@
          style="font-size:34.6667px;line-height:1.25;font-family:'Montserrat SemiBold';-inkscape-font-specification:'Montserrat SemiBold, ';white-space:pre;shape-inside:url(#rect7625);display:inline"><tspan
            x="2372.6543"
            y="-487.18494"
-           id="tspan22000"><tspan
+           id="tspan24668"><tspan
              style="font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#ffffff"
-             id="tspan21996">&gt; </tspan><tspan
+             id="tspan24664">&gt; </tspan><tspan
              style="fill:#ffff00"
-             id="tspan21998">git log --all --decorate --oneline </tspan></tspan><tspan
+             id="tspan24666">git log --all --decorate --oneline </tspan></tspan><tspan
            x="2372.6543"
            y="-442.66153"
-           id="tspan22006"><tspan
+           id="tspan24674"><tspan
              style="fill:#ffff00"
-             id="tspan22002">--graph</tspan><tspan
+             id="tspan24670">--graph</tspan><tspan
              style="font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#ffffff"
-             id="tspan22004">
+             id="tspan24672">
 </tspan></tspan><tspan
            x="2372.6543"
            y="-398.13812"
-           id="tspan22014"><tspan
+           id="tspan24682"><tspan
              style="font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#ffffff"
-             id="tspan22008">* </tspan><tspan
+             id="tspan24676">* </tspan><tspan
              style="fill:#00ff00"
-             id="tspan22010">6a206f0</tspan><tspan
+             id="tspan24678">6a206f0</tspan><tspan
              style="font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#ffffff"
-             id="tspan22012"> (HEAD -&gt; main, origin/main, </tspan></tspan><tspan
+             id="tspan24680"> (HEAD -&gt; main, origin/main, </tspan></tspan><tspan
            x="2372.6543"
            y="-353.61472"
-           id="tspan22018"><tspan
+           id="tspan24686"><tspan
              style="font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#ffffff"
-             id="tspan22016">origin/HEAD) Wallpaper IA
+             id="tspan24684">origin/HEAD) Wallpaper IA
 </tspan></tspan><tspan
            x="2372.6543"
            y="-309.09131"
-           id="tspan22026"><tspan
+           id="tspan24694"><tspan
              style="font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#ffffff"
-             id="tspan22020">* </tspan><tspan
+             id="tspan24688">* </tspan><tspan
              style="fill:#00ff00"
-             id="tspan22022">5c70577</tspan><tspan
+             id="tspan24690">5c70577</tspan><tspan
              style="font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#ffffff"
-             id="tspan22024"> Initial Commit</tspan></tspan></text>
+             id="tspan24692"> Initial Commit</tspan></tspan></text>
     </g>
     <g
        id="g32619-9"
@@ -1711,25 +1729,25 @@
          y="0"><tspan
            x="1225.7832"
            y="-734.43352"
-           id="tspan22030"><tspan
+           id="tspan24698"><tspan
              style="font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono'"
-             id="tspan22028">&gt; git checkout -b first-change-</tspan></tspan><tspan
+             id="tspan24696">&gt; git checkout -b first-change-</tspan></tspan><tspan
            x="1659.2598"
            y="-683.06042"
-           id="tspan22034"><tspan
+           id="tspan24702"><tspan
              style="font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono'"
-             id="tspan22032">branch &lt;&lt;id&gt;&gt;
+             id="tspan24700">branch &lt;&lt;id&gt;&gt;
 </tspan></tspan><tspan
            x="1379.1104"
            y="-631.68731"
-           id="tspan22038"><tspan
+           id="tspan24706"><tspan
              style="font-size:32px;font-family:Montserrat;-inkscape-font-specification:Montserrat"
-             id="tspan22036">Crea una nueva rama y cambia a ella, </tspan></tspan><tspan
+             id="tspan24704">Crea una nueva rama y cambia a ella, </tspan></tspan><tspan
            x="1293.4144"
            y="-581.68731"
-           id="tspan22042"><tspan
+           id="tspan24710"><tspan
              style="font-size:32px;font-family:Montserrat;-inkscape-font-specification:Montserrat"
-             id="tspan22040">basándola en el identificador especificado.</tspan></tspan></text>
+             id="tspan24708">basándola en el identificador especificado.</tspan></tspan></text>
     </g>
     <rect
        style="fill:#5cf1f1;fill-opacity:1;stroke:none;stroke-width:1.065;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:1.065, 4.26;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill;stop-color:#000000"
@@ -1778,10 +1796,10 @@
        style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:74.6667px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect9929);display:inline;filter:url(#filter13276)"><tspan
          x="1243.1562"
          y="-999.45635"
-         id="tspan22044">Volver en el </tspan><tspan
+         id="tspan24712">Volver en el </tspan><tspan
          x="1243.1562"
          y="-906.12298"
-         id="tspan22046">tiempo</tspan></text>
+         id="tspan24714">tiempo</tspan></text>
     <g
        id="g10692"
        transform="translate(-297.88726,296.50145)">
@@ -1802,20 +1820,20 @@
            style="font-size:40px;line-height:1.25;font-family:'Montserrat SemiBold';-inkscape-font-specification:'Montserrat SemiBold, ';white-space:pre;shape-inside:url(#rect10694);display:inline;filter:url(#filter37595-3)"><tspan
              x="1210.6836"
              y="-734.43352"
-             id="tspan22050"><tspan
+             id="tspan24718"><tspan
                style="font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono'"
-               id="tspan22048">&gt; git checkout &lt;&lt;id&gt;&gt;
+               id="tspan24716">&gt; git checkout &lt;&lt;id&gt;&gt;
 </tspan></tspan><tspan
              x="1210.6836"
              y="-683.06042"
-             id="tspan22054"><tspan
+             id="tspan24722"><tspan
                style="font-size:32px;font-family:Montserrat;-inkscape-font-specification:Montserrat"
-               id="tspan22052">Ubicarse en un momento específico </tspan></tspan><tspan
+               id="tspan24720">Ubicarse en un momento específico </tspan></tspan><tspan
              x="1210.6836"
              y="-633.06042"
-             id="tspan22058"><tspan
+             id="tspan24726"><tspan
                style="font-size:32px;font-family:Montserrat;-inkscape-font-specification:Montserrat"
-               id="tspan22056">identificado por &lt;&lt;id&gt;&gt;</tspan></tspan></text>
+               id="tspan24724">identificado por &lt;&lt;id&gt;&gt;</tspan></tspan></text>
       </g>
     </g>
     <g
@@ -1838,25 +1856,25 @@
            style="font-size:40px;line-height:1.25;font-family:'Montserrat SemiBold';-inkscape-font-specification:'Montserrat SemiBold, ';white-space:pre;shape-inside:url(#rect10694-9);display:inline;filter:url(#filter37595-3-48)"><tspan
              x="1210.6836"
              y="-734.43352"
-             id="tspan22062"><tspan
+             id="tspan24730"><tspan
                style="font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono'"
-               id="tspan22060">&gt; git reset --hard &lt;&lt;id&gt;&gt;
+               id="tspan24728">&gt; git reset --hard &lt;&lt;id&gt;&gt;
 </tspan></tspan><tspan
              x="1210.6836"
              y="-683.06042"
-             id="tspan22066"><tspan
+             id="tspan24734"><tspan
                style="font-size:32px;font-family:Montserrat;-inkscape-font-specification:Montserrat"
-               id="tspan22064">Restablece el índice y el árbol de trabajo al </tspan></tspan><tspan
+               id="tspan24732">Restablece el índice y el árbol de trabajo al </tspan></tspan><tspan
              x="1210.6836"
              y="-633.06042"
-             id="tspan22070"><tspan
+             id="tspan24738"><tspan
                style="font-size:32px;font-family:Montserrat;-inkscape-font-specification:Montserrat"
-               id="tspan22068">commit especificado por &lt;&lt;id&gt;&gt;. Descarta </tspan></tspan><tspan
+               id="tspan24736">commit especificado por &lt;&lt;id&gt;&gt;. Descarta </tspan></tspan><tspan
              x="1210.6836"
              y="-583.06042"
-             id="tspan22074"><tspan
+             id="tspan24742"><tspan
                style="font-size:32px;font-family:Montserrat;-inkscape-font-specification:Montserrat"
-               id="tspan22072">todos los cambios no confirmados</tspan></tspan></text>
+               id="tspan24740">todos los cambios no confirmados</tspan></tspan></text>
       </g>
     </g>
     <g
@@ -1920,25 +1938,25 @@
          y="0"><tspan
            x="1611.0957"
            y="-734.43352"
-           id="tspan22078"><tspan
+           id="tspan24746"><tspan
              style="font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono'"
-             id="tspan22076">&gt; git stash pop
+             id="tspan24744">&gt; git stash pop
 </tspan></tspan><tspan
            x="1213.6702"
            y="-683.06042"
-           id="tspan22082"><tspan
+           id="tspan24750"><tspan
              style="font-size:32px;font-family:Montserrat;-inkscape-font-specification:Montserrat"
-             id="tspan22080">Aplica los cambios más recientes guardados en </tspan></tspan><tspan
+             id="tspan24748">Aplica los cambios más recientes guardados en </tspan></tspan><tspan
            x="1393.4464"
            y="-633.06042"
-           id="tspan22086"><tspan
+           id="tspan24754"><tspan
              style="font-size:32px;font-family:Montserrat;-inkscape-font-specification:Montserrat"
-             id="tspan22084">el stash y los elimina de esta área de </tspan></tspan><tspan
+             id="tspan24752">el stash y los elimina de esta área de </tspan></tspan><tspan
            x="1543.8461"
            y="-583.06042"
-           id="tspan22090"><tspan
+           id="tspan24758"><tspan
              style="font-size:32px;font-family:Montserrat;-inkscape-font-specification:Montserrat"
-             id="tspan22088">almacenamiento temporal</tspan></tspan></text>
+             id="tspan24756">almacenamiento temporal</tspan></tspan></text>
     </g>
     <rect
        style="fill:#5cf1f1;fill-opacity:1;stroke:none;stroke-width:1.065;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:1.065, 4.26;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill;stop-color:#000000"
@@ -1955,10 +1973,10 @@
        style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:74.6667px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect9929-1);display:inline;filter:url(#filter13276-0)"><tspan
          x="1243.1562"
          y="-999.45635"
-         id="tspan22092">Poner pausa al </tspan><tspan
+         id="tspan24760">Poner pausa al </tspan><tspan
          x="1243.1562"
          y="-906.12298"
-         id="tspan22094">tiempo</tspan></text>
+         id="tspan24762">tiempo</tspan></text>
     <g
        id="g13990"
        transform="translate(52.562982,589.45631)">
@@ -1991,20 +2009,20 @@
            style="font-size:40px;line-height:1.25;font-family:'Montserrat SemiBold';-inkscape-font-specification:'Montserrat SemiBold, ';white-space:pre;shape-inside:url(#rect10694-7);display:inline;filter:url(#filter37595-3-63)"><tspan
              x="1210.6836"
              y="-734.43352"
-             id="tspan22098"><tspan
+             id="tspan24766"><tspan
                style="font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono'"
-               id="tspan22096">&gt; git stash
+               id="tspan24764">&gt; git stash
 </tspan></tspan><tspan
              x="1210.6836"
              y="-683.06042"
-             id="tspan22102"><tspan
+             id="tspan24770"><tspan
                style="font-size:32px;font-family:Montserrat;-inkscape-font-specification:Montserrat"
-               id="tspan22100">Guarda temporalmente los cambios no </tspan></tspan><tspan
+               id="tspan24768">Guarda temporalmente los cambios no </tspan></tspan><tspan
              x="1210.6836"
              y="-633.06042"
-             id="tspan22106"><tspan
+             id="tspan24774"><tspan
                style="font-size:32px;font-family:Montserrat;-inkscape-font-specification:Montserrat"
-               id="tspan22104">confirmados en un área temporal</tspan></tspan></text>
+               id="tspan24772">confirmados en un área temporal</tspan></tspan></text>
       </g>
     </g>
     <rect
@@ -2278,10 +2296,10 @@
        style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:74.6667px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat Semi-Bold';white-space:pre;shape-inside:url(#rect18901);display:inline;filter:url(#filter13276)"><tspan
          x="1243.1562"
          y="-999.45635"
-         id="tspan22108">Git y los viajes en </tspan><tspan
+         id="tspan24776">Git y los viajes en </tspan><tspan
          x="1243.1562"
          y="-906.12298"
-         id="tspan22110">el tiempo</tspan></text>
+         id="tspan24778">el tiempo</tspan></text>
     <g
        id="g20768"
        transform="translate(-1.24227,8.1498874)">
@@ -2300,9 +2318,9 @@
          style="font-size:40px;line-height:1.25;font-family:'Montserrat SemiBold';-inkscape-font-specification:'Montserrat SemiBold, ';white-space:pre;shape-inside:url(#rect20761);display:inline"><tspan
            x="2472.3203"
            y="1588.4473"
-           id="tspan22114"><tspan
+           id="tspan24782"><tspan
              style="font-family:Montserrat;-inkscape-font-specification:Montserrat"
-             id="tspan22112">Main</tspan></tspan></text>
+             id="tspan24780">Main</tspan></tspan></text>
     </g>
     <g
        id="g20825"
@@ -2322,9 +2340,9 @@
          style="font-size:40px;line-height:1.25;font-family:'Montserrat SemiBold';-inkscape-font-specification:'Montserrat SemiBold, ';white-space:pre;shape-inside:url(#rect20761-2);display:inline"><tspan
            x="2472.3203"
            y="1588.4473"
-           id="tspan22118"><tspan
+           id="tspan24786"><tspan
              style="font-family:Montserrat;-inkscape-font-specification:Montserrat"
-             id="tspan22116">Develop</tspan></tspan></text>
+             id="tspan24784">Develop</tspan></tspan></text>
     </g>
     <g
        id="g21471"
@@ -2335,38 +2353,44 @@
          width="218.15878"
          height="76.853073"
          x="615.62146"
-         y="-148.58397"
+         y="-142.35678"
          ry="9.3387327" />
       <text
          xml:space="preserve"
-         transform="matrix(0.26458333,0,0,0.26458333,-5.8862777,-4.9794379)"
+         transform="matrix(0.26458333,0,0,0.26458333,-5.8862777,1.2476872)"
          id="text21469"
          style="font-size:34.6667px;line-height:1.25;font-family:'Montserrat SemiBold';-inkscape-font-specification:'Montserrat SemiBold, ';white-space:pre;shape-inside:url(#rect21473);display:inline"><tspan
            x="2372.6543"
            y="-487.18494"
-           id="tspan22124"><tspan
+           id="tspan24792"><tspan
              style="font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#ffffff"
-             id="tspan22120">&gt; </tspan><tspan
+             id="tspan24788">&gt; </tspan><tspan
              style="fill:#ffff00"
-             id="tspan22122">git init
+             id="tspan24790">git init
 </tspan></tspan><tspan
            x="2372.6543"
            y="-442.66153"
-           id="tspan22128"><tspan
+           id="tspan24796"><tspan
              style="fill:#ffff00"
-             id="tspan22126">&gt; git add .
+             id="tspan24794">&gt; git add .
 </tspan></tspan><tspan
            x="2372.6543"
            y="-398.13812"
-           id="tspan22132"><tspan
+           id="tspan24800"><tspan
              style="fill:#ffff00"
-             id="tspan22130">&gt; git commit -m &quot;Comunidad&quot;
+             id="tspan24798">&gt; git commit -m &quot;Comunidad&quot;
 </tspan></tspan><tspan
            x="2372.6543"
            y="-353.61472"
-           id="tspan22136"><tspan
+           id="tspan24804"><tspan
              style="fill:#ffff00"
-             id="tspan22134">&gt; git push 
+             id="tspan24802">&gt; git push 
+</tspan></tspan><tspan
+           x="2372.6543"
+           y="-309.09131"
+           id="tspan24808"><tspan
+             style="font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#ffffff"
+             id="tspan24806">remote: Resolving deltas: 100%
 </tspan></tspan></text>
     </g>
   </g>
